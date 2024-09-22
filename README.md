@@ -7,8 +7,18 @@
    👩🏻‍💻 Web Backend Engineer<br>
    🇰🇷 Korean<br>
    🖥️ Major in Software department<br>
-   ✉️ guri2913@gmail.com
 </div><br>
+
+## Contact
+<div>
+<a href="mailto:guri2913@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<a href=" target="_blank">
+<img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
+</a>
+   
+</div>
 
 ## Skills
 <div width="100%">
