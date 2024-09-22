@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome!&desc=Kej%20GitHub&animation=fadeIn&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&descColor=ffffff)
 
 
+## About Me
 <div style=text-align: center>
-  ## About Me
   - 🐹 eunjeong Kim<br>
   - 👩🏻‍💻 Web Backend Engineer <br>
   - 🇰🇷 Korean<br>
@@ -10,8 +10,8 @@
   - ✉️ guri2913@gmail.com
 </div>
 
-<div width="100%" style="text-align: center;">
 ## Skills
+<div width="100%">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-sqaure&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-sqaure&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-sqaure&logo=Thymeleaf&logoColor=white"/>
