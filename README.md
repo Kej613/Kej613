@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Web%20Developer&fontSize=50" />
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&height=300&section=header&text=Web%20Developer&desc=안녕하세요.개발자 김은정 입니다.&textBg=true&fontSize=50&fontColor=ffee00&animation=fadeIn"/>
 
 ## About Me 
