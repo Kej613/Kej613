@@ -1,5 +1,6 @@
-## Eunjeong kim 🐹
+## About Me 
 
+- 🐹 eunjeong Kim
 - 👩🏻‍💻 Web Backend Engineer 
 - 🇰🇷 Korean
 - 🖥️ Major in Software department
@@ -11,6 +12,10 @@
   <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/mysql.png" alt="mysql" height="50px"/>
+
+<img src="https://img.shields.io/badge/JAVA-007396?
+          style=flat&logo=Java&logoColor=white"/>
+  
 </div>
 
 ##Statics
