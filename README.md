@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=KEJ%20GitHub!&animation=fadeIn&fontSize=50&fontColor=000000&stroke=FFb3b3&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome!&animation=fadeIn&fontSize=50&fontColor=000000&stroke=FFb3b3&strokeWidth=1)
 
 
 
