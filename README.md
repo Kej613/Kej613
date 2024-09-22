@@ -27,5 +27,8 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-sqaure&logo=Next.js&logoColor=white"/> 
 
 ## Statics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kej613&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Kej613&show_icons=true">
+
 
 
