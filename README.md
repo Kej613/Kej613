@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome!&desc=Kej%20GitHub&animation=fadeIn&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&descColor=ffffff)
 
 
-<div style="text-align: center;">
+<div style=text-align: center>
   ## About Me
   - 🐹 eunjeong Kim<br>
   - 👩🏻‍💻 Web Backend Engineer <br>
