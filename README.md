@@ -14,9 +14,10 @@
 <a href="mailto:guri2913@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
-<a href=" target="_blank">
-<img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
+<a href="https://www.instagram.com/e._jeong/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
+
    
 </div>
 
