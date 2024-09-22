@@ -9,13 +9,14 @@
 ## Skills
 <div width="100%">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-sqaure&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-sqaure&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-sqaure&logo=Thymeleaf&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-sqaure&logo=Gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-sqaure&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-sqaure&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-sqaure&logo=CSS3&logoColor=white"/>  
 </div>
 
 ##Statics
