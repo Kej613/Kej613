@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-sqaure&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-sqaure&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-sqaure&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-sqaure&logo=Oraclet&logoColor=white"/>
+  
 </div>
 
 ##Statics
