@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=%23b3ecff&height=300&section=header&text=KEJ%20GitHub%20🐹&fontSize=50" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=%23b3ecff&height=300&section=header&text=KEJ%20GitHub%20🐹&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=%23b3ecff&height=300&section=header&text=KEJ%20GitHub&fontSize=50)
 
 
 ## About Me 
