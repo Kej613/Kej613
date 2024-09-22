@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=안녕하세요.개발자%20김은정%20입니다.&fontSize=50&descSize=30" />
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b3ecff&height=300&section=header&text=KEJ GitHub🐹&fontSize=50" />
 
 ## About Me 
 
