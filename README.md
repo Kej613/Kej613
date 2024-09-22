@@ -8,15 +8,8 @@
 
 ## Skills
 <div width="100%">
-<img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat-sqaure
-          &logo=Java
-          &logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
-          style=flat-sqaure
-          &logo=JS
-          &logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-sqaure&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=JavaScript&logoColor=white"/>
   
 </div>
 
