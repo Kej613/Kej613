@@ -3,12 +3,12 @@
 
 ## About Me
 <div style=text-align: center>
-  - 🐹 eunjeong Kim<br>
-  - 👩🏻‍💻 Web Backend Engineer <br>
-  - 🇰🇷 Korean<br>
-  - 🖥️ Major in Software department<br>
-  - ✉️ guri2913@gmail.com
-</div>
+   🐹 eunjeong Kim<br>
+   👩🏻‍💻 Web Backend Engineer <br>
+   🇰🇷 Korean<br>
+   🖥️ Major in Software department<br>
+   ✉️ guri2913@gmail.com
+</div><br>
 
 ## Skills
 <div width="100%">
@@ -26,7 +26,7 @@
 <p>Styding~</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-sqaure&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-sqaure&logo=Next.js&logoColor=white"/> 
-</div>
+</div><br>
 
 ## Statics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kej613&layout=compact">
