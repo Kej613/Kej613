@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&height=300&section=header&text=capsule%20render&desc=안녕하세요.개발자 김은정 입니다.&textBg=true&fontSize=80&fontColor=ffee00&animation=fadeIn"/>
+
 ## About Me 
 
 - 🐹 eunjeong Kim
@@ -18,7 +21,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-sqaure&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-sqaure&logo=CSS3&logoColor=white"/>  
 </div>
-- Styding~
+- Studying~
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-sqaure&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-sqaure&logo=Next.js&logoColor=white"/> 
 
