@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFb3b3&height=300&section=header&text=KEJ%20GitHub!&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFb3b3&height=300&section=header&text=KEJ%20GitHub!&fontSize=50&fontColor=ffffff)
 
 
 
