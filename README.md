@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome!&desc=Kej%20GitHub&animation=fadeIn&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1)
 
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome!&desc=Kej%20GitHub&animation=fadeIn&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&descColor=ffffff)
 
 
 ## About Me 
@@ -27,7 +28,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-sqaure&logo=Next.js&logoColor=white"/> 
 
 ## Statics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kej613&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kej613&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Kej613&show_icons=true">
 
 
