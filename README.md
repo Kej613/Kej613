@@ -8,13 +8,15 @@
 
 ## Skills
 <div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/spring.png" alt="spring" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/Kej613/Kej613/main/icons/mysql.png" alt="mysql" height="50px"/>
-
 <img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat&logo=Java&logoColor=white"/>
+          style=flat-sqaure
+          &logo=Java
+          &logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
+          style=flat-sqaure
+          &logo=JavaScript
+          &logoColor=white"/>
   
 </div>
 
