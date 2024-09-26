@@ -36,13 +36,6 @@ public class EunjeongKimProfile {
 </div>
 
 
-<h2>🎓 Social Activity </h2> 
-
-|소속 및 단체 | 활동 기간 |내용 | 
-|---|---|---|
-|OO대학교| | OO대학교 졸업|
-
-
 <br/>
 
 
