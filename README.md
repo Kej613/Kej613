@@ -26,11 +26,11 @@ public class EunjeongKimProfile {
 <div>
 
 <h2>👨‍💻 FrontEnd </h2> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,react,nextjs&titles=true"/><br/> 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,react&titles=true"/><br/> 
 </div><br>
 
 <h2>👨‍💻 Infra / CICD </h2> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,git,kubernetes,docker&titles=true"/><br/> 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker&titles=true"/><br/> 
 </div><br>
 
 </div>
