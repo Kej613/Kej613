@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=E.Jeong&20color=#FFFfontSize=50)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=E.Jeong&20fontSize=50)
 
 
 ## 💁🏼‍♀️About Me
